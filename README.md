@@ -1,2 +1,3 @@
-# prefinalappdev
-pre final app dev - additional activity :D
+favorite movie movie/series
+1. truman Show
+     ahead of its time movies
