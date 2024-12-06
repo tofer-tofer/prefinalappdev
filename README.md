@@ -9,4 +9,7 @@ try bautista
 try tofer
 
 another with proper step 
-first 
+ first 
+
+
+enter message, commit, push
