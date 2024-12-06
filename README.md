@@ -5,4 +5,5 @@ pre final app dev - additional activity :D
 # testing sending bautista branch
 try bautista 
 
-gjipsdjgpognvpodg
+# practice again 8:18 
+try tofer
