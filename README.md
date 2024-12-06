@@ -12,4 +12,9 @@ another with proper step
  first 
 
 
-enter message, commit, push
+enter message, commit all, push
+
+
+first step enter a message 
+commit all
+push
